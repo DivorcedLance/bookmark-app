@@ -9,6 +9,12 @@ The Bookmark App is a simple web application that allows users to save and manag
 - **Delete Bookmarks:** Users can delete bookmarks from their list. 🗑️
 - **Persistent Storage:** Bookmarks are saved to local storage, so they persist even after the browser is closed. 💾
 
+## Responsive Design 📱
+
+The Bookmark App is fully responsive, meaning it adjusts beautifully to fit any screen size, whether you are accessing it from a desktop, tablet, or smartphone.
+
+![Responsive Design](path/to/your/screenshot.png)
+
 ## Technologies Used 💻
 
 - HTML
@@ -19,6 +25,8 @@ The Bookmark App is a simple web application that allows users to save and manag
 ## Try It Live 🚀
 
 You can use the Bookmark App directly from your web browser by visiting [this link](https://divorcedlance.github.io/bookmark-app/).
+
+![Bookmark App Interface](path/to/your/screenshot.png)
 
 ## Usage 🚀
 
