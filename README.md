@@ -31,11 +31,3 @@ You can use the Bookmark App directly from your web browser by visiting [this li
 ## Usage 🚀
 
 To use the app, simply click the 'Add Bookmark' button, fill in the website name and URL, and click 'Save'. Your bookmark will appear below, and you can click on it to visit the site or click the delete icon to remove it.
-
-## Contributing 🤝
-
-Contributions are welcome! If you have suggestions or improvements, please fork the repo and submit a pull request.
-
-## License 📄
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE) file for details.
