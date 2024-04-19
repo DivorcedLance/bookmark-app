@@ -13,7 +13,7 @@ The Bookmark App is a simple web application that allows users to save and manag
 
 The Bookmark App is fully responsive, meaning it adjusts beautifully to fit any screen size, whether you are accessing it from a desktop, tablet, or smartphone.
 
-![Responsive Design](path/to/your/screenshot.png)
+![Responsive Design](https://github.com/DivorcedLance/bookmark-app/assets/104219610/6e310bb9-f3a3-4cf4-be91-d03cf53bc485)
 
 ## Technologies Used 💻
 
@@ -26,7 +26,7 @@ The Bookmark App is fully responsive, meaning it adjusts beautifully to fit any 
 
 You can use the Bookmark App directly from your web browser by visiting [this link](https://divorcedlance.github.io/bookmark-app/).
 
-![Bookmark App Interface](path/to/your/screenshot.png)
+![Bookmark App Interface](https://github.com/DivorcedLance/bookmark-app/assets/104219610/405fe229-f782-4454-8b14-97cfb0d6ad20)
 
 ## Usage 🚀
 
